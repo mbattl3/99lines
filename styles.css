@@ -1,0 +1,34 @@
+body{
+    background-color: #c43d16;
+
+}
+
+h1{
+    color: darksalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 2rem;
+    text-align: center;
+}
+
+.friend{
+    background-color: #edc596;
+    padding: 2px;
+    border: #dc6d02;
+    border-width: 3px;
+    margin: 2rem;
+    
+}
+
+h3{
+    text-transform: uppercase;
+    color: #dc6d02;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1rem;
+    color: #dc6d02;
+}
