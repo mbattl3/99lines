@@ -1,5 +1,3 @@
-//array called friends w/ 5 friends' names. Each friend sings the 99 lines of code song down to 1. Has to be grammatically correct.
-
 let friends = ["Ami", "Bam", "Cas", "Daz", "Emi"];
 for (let i = 0; i < friends.length; i++) {
   console.log(friends[i]);
